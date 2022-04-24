@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LMSController
+comment0.text=\n\ Write\ a\ description\ of\ class\ LMSController\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=game
+comment1.target=LMSController(TicTacToe)
+comment2.params=game
+comment2.target=int[]\ getInputs(TicTacToe)
+comment3.params=
+comment3.target=int[]\ getMove()
+comment4.params=win\ index\ games
+comment4.target=void\ train(int,\ int,\ TicTacToe[])
+comment5.params=
+comment5.target=void\ incWins()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=w
+comment7.target=void\ setWeights(float[])
+numComments=8
